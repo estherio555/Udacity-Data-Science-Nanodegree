@@ -1,4 +1,4 @@
-# Udacity-DSND
+# Supervised Learning Project
 
 ## Project: Finding Donors for CharityML
 
